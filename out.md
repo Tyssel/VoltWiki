@@ -53,23 +53,26 @@ Dieses Playbook ist Teil des _Community Team Playbook_ und unterliegt stetiger W
 
 # Abkürzungen und Begriffserklärungen
 
-*  __Abkürzungen:__ 
-*  __RDL__  = Regional Development Lead \(w/m/d\)
-*  __RL__  = Regional Lead \(w/m/d\)
-*  __WP__  = Workplace
-*  __FT__  = Functional Team
-*  __LFC__  = Local Finance Coordinator
-*  __Begriffserklärungen:__ 
-*  __neues lokales Team__  = vom RDL betreutes\, sich im frühen Aufbau befindliches lokales Team
-  * “lokales Team” vs\. “City Team” : viele sich im Aufbau befindlichen Teams sind nicht einer einzelnen “City” iSv\. Stadt/Gemeinde zugeordnet\, sondern aufgrund ihrer ländlichen Lage die Basis für lokale Zusammenarbeit mehrerer Dörfer/Gemeinden gemeinsam\. Deshalb wählen wir die Bezeichnung “lokales Team” statt “City Team”
-  * vgl\. “District\-Team ”; Folie 17
-*  __RL\-Team__  = vom RL betreutes\, erfahrenes und selbständiges lokales Team \(Beispiel: City Team Köln\)
-*  __RDL\-Tea__    __m__  = neues/ sich im Aufbau befindliches lokales Team \(Beispiel: City Team Lübbenau\)
-*  __EUR Expansion Team__  =der Development\-Bereich heißt auf europäischer Organisationsebene “Expansion”
-*  __Region__  = i\.d\.R\. Bundesland; einige Bundesländer sind zu gemeinsamen Regionen zusammengefasst  _\(Dokument mit Team\-Aufteilung_   \) \(Beispiel: Region “NRW” / Region “Niedersachsen und Bremen”\)
-*  __Google Drive__  = Volt Deutschland Google Drive Struktur \- Zugriff wird über das Community Team erteilt  _\(vgl\. Vorstandsbeschluss 19\)_ 
-*  __lokale Ansprechperson__   = Person in neuem lokalen Team\, die dem RDL für die Gründung des Teams kontinuierlich als primärer Kontaktpunkt zur Verfügung steht und lokal die Aufbauarbeit koordiniert\. Perspektivisch City Lead\.
-*  __Functional Team__  = Funktionsteam der bewegungsinternen Organisationsstruktur\.  _Übersicht aller DE Functional Teams_ 
+Abkürzung | Erklärung
+---|---
+RDL | Regional Development Lead \(w/m/d\)|
+RL | Regional Lead \(w/m/d\)|
+WP | Workplace
+FT | Functional Team
+LFC | Local Finance Coordinator
+
+Begriff | Erklärung
+---|---
+neues lokales Team | vom RDL betreutes\, sich im frühen Aufbau befindliches lokales Team
+lokales Team vs\. City Team | viele sich im Aufbau befindlichen Teams sind nicht einer einzelnen “City” iSv\. Stadt/Gemeinde zugeordnet\, sondern aufgrund ihrer ländlichen Lage die Basis für lokale Zusammenarbeit mehrerer Dörfer/Gemeinden gemeinsam\. Deshalb wählen wir die Bezeichnung “lokales Team” statt “City Team” * vgl\. “District\-Team ”; Folie 17
+RL\-Team | vom RL betreutes\, erfahrenes und selbständiges lokales Team \(Beispiel: City Team Köln\)
+RDL\-Team | neues/ sich im Aufbau befindliches lokales Team \(Beispiel: City Team Lübbenau\)
+EUR Expansion Team | der Development\-Bereich heißt auf europäischer Organisationsebene “Expansion”
+Region | i\.d\.R\. Bundesland; einige Bundesländer sind zu gemeinsamen Regionen zusammengefasst  _\(Dokument mit Team\-Aufteilung_   \) \(Beispiel: Region “NRW” / Region “Niedersachsen und Bremen”\)
+Google Drive | Volt Deutschland Google Drive Struktur \- Zugriff wird über das Community Team erteilt  _\(vgl\. Vorstandsbeschluss 19\)_ 
+lokale Ansprechperson | Person in neuem lokalen Team\, die dem RDL für die Gründung des Teams kontinuierlich als primärer Kontaktpunkt zur Verfügung steht und lokal die Aufbauarbeit koordiniert\. Perspektivisch City Lead\.
+Functional Team | Funktionsteam der bewegungsinternen Organisationsstruktur\.  _Übersicht aller DE Functional Teams_ 
+
 
 
 
