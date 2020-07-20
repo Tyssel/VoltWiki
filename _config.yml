@@ -1,0 +1,8 @@
+# Book settings
+title: Volt Deutschland Community Development Playbook
+author: Volt Deutschland RDLs
+logo: logo.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
